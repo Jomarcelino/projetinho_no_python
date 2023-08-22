@@ -1,1 +1,1 @@
-# projetinho_no_python
+# Este é um pequeno projeto que eu fiz usando python a fins de estudo e curiosidade seguindo um tutorial no youtube, o projeto não foi 100% concluido pois eu precisava pagar um plano em um site que eu usei mas o codigo está funcional, porém sem a parte do sms ;-;.
